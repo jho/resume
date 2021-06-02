@@ -94,3 +94,11 @@ __BA, Calvin College__ Computer Science
 
 `2015`
 [US20150244678](https://patents.google.com/patent/US20150244678) Network traffic filtering and routing for threat analysis  
+
+## Tech Talks
+
+`2018` 
+__AWS re:Invent 2018__ [Data Lake Implementation: Processing & Querying Data in Place](https://youtu.be/0fa0nt0Pe58?t=2377)
+
+`2016` 
+__Cassandra Summit 2016__ [Cold Storage That Isn't Glacial](http://jho.github.io/presentations/c-summit-2016/index.html)
