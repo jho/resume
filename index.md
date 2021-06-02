@@ -1,91 +1,74 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Joshua Hollanders's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Joshua Hollander
+Software Engineer, Big Data Wrangler, Stream Whisperer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:jholla14@gmail.com">jholla14@gmail.com</a> |
+<a href="https://jho.github.io">jho.github.io</a> |
+<a href="https://github.com/jho">GitHub</a>
 </div>
 
 
-## Currently
+## About
 
-Standing on the shoulders of giants
+Experienced and dedicated software craftsman and people leader who is always learning and evolving my craft and skills.  
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Large scale data processing and storage with tools like Spark and Kafka.
 
+### Experienced in
 
-### Research interests
+#### Languages 
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Scala, Java, Python
 
+#### Tools
+
+Spark, Kafka, SOLR, Cassandra, Elastic Search, ML
+
+#### Platforms 
+
+AWS, Kubernetes
+
+## Professional Experience
+
+`2017`
+__Director of Platform Engineering, Protectwise (acquired by Verizon)__, Denver, CO
+
+`2013`
+__Principal Engineer, Protectwise (acquired by Verizon)__, Denver, CO
+
+`2011`
+__Sr. Software Engineer, Photobucket__, Denver, CO
+
+`2010`
+__Sr. Software Engineer, Local Matters Inc__, Denver, CO
+
+`2008`
+__Sr. Software Engineer, Useful Networks__, Denver, CO
+
+`2005`
+__Software Engineer, LaNetro Zed__, Denver, CO
+
+`2005`
+__Systems Analyst, Steelcase__, Grand Rapids, MI
+
+`2002` 
+__Software Engineer, Pinika LLC__, Grand Rapids, MI
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
 `2012`
-President, *Royal Society*, London, UK
+__MS, University of Colorado at Denver__ Computer Science
 
-Associate, *French Academy of Science*, Paris, France
+`2003`
+__BA, Calvin College__ Computer Science
 
+## Patents
 
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+`2015`
+[US20150244678](https://patents.google.com/patent/US20150244678) Network traffic filtering and routing for threat analysis  

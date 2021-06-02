@@ -63,7 +63,7 @@ body {
 
 p {
 	position: relative;
-	left: 25%;
+	left: 30%;
 	margin-bottom: 0.2em;
 	margin-right: 0;
 	width: 60%;
@@ -80,7 +80,7 @@ code {
 p code {
 	position: absolute;
 	text-align: right;
-	right: -20%;
+	left: -10%;
 }
 
 
@@ -114,7 +114,7 @@ li ul {
 }
 
 h1,h2,h3,h4 {
-	font-weight: 400;
+	font-weight: 500;
 	font-family: Avenir,Cousine,Verdana,sans-serif;
 	width: 80%;
 }
@@ -124,7 +124,7 @@ h1 {
 	font-size: 3em;
 	line-height: 1em;
 	position: relative;
-	left: 25%;
+	left: 30%;
 }
 
 h1+p {
@@ -154,6 +154,16 @@ h3 {
 	width: 20%;
 }
 
+h4 {
+	font-weight: 400;
+	font-size: 1em;
+	line-height: 2em;
+	position: relative;
+	top: 1.7em;
+	text-align: right;
+	width: 20%;
+}
+
 a {
 	color: inherit;
 	text-decoration:none
@@ -166,7 +176,7 @@ a:hover {
 #webaddress {
 	margin-top: 1em;
 	position: relative;
-	left: 25%;
+	left: 30%;
 	color: #ccc;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 90%;
