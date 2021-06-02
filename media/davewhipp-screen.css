@@ -86,23 +86,24 @@ p code {
 
 ul {
 	position: relative;
-	left: 25%;
+	left: 30%;
 	width: 75%;
 	margin-bottom: 1.5em;
 	margin-top: -0.5em;
 }
 
 /*uncomment to get dashes in the list*/
-/*li:before {
+li:before {
 	content: "-";
 	position: relative;
-	left: -0.25em;
-}*/
+	left: -1.0em;
+}
 
 li {
 	/*second line indent*/
-	padding-left: 1.25em;
+	padding-left: 2.0em;
 	text-indent: -1.25em;
+    left: 10%;
 	/*color: #777;*/
 }
 
@@ -121,7 +122,7 @@ h1,h2,h3,h4 {
 
 h1 {
 	text-align: left;
-	font-size: 3em;
+	font-size: 2.25em;
 	line-height: 1em;
 	position: relative;
 	left: 30%;
@@ -130,13 +131,13 @@ h1 {
 h1+p {
 	/*subtitle*/
 	font-style: italic;
-	font-size: 110%;
+	font-size: 100%;
 }
 
 h2 {
 	font-size: 1.1em;
 	color: #bc412b;
-	margin-top: 3em;
+	margin-top: 1.0em;
 	position: relative;
 	top: 1.4em;
 	text-align: right;
@@ -172,12 +173,12 @@ a:hover {
 }
 
 #webaddress {
-	margin-top: 1em;
+	margin-top: .5em;
 	position: relative;
 	left: 30%;
 	color: #bc412b;
 	font-family: Monaco,Menlo,monospace,sans-serif;
-	font-size: 100%;
+	font-size: 80%;
 }
 
 #webaddress a {
