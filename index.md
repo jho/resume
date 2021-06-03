@@ -29,7 +29,7 @@ Linux, AWS, Docker, Kubernetes
 `2017`
 __Director of Platform Engineering, ProtectWise (acquired by Verizon)__, Denver, CO
 
-Leading a team of talented engineers to maintain, enhance and scale a revolutionary cloud based Network Detection and Response (NDR) cybersecurity product.  
+Leading a team of talented engineers to maintain, enhance and scale a revolutionary cloud based cybersecurity product.  
 
 * Responsible for hiring, onboarding, mentoring and coaching engineers.
 * Responsible for budget planning and cost optimizations.
