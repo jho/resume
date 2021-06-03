@@ -15,19 +15,19 @@ Software Engineer, Big Data Wrangler, Stream Whisperer
 
 Experienced and dedicated software craftsman, people leader, and mentor.
 
-Designing and building software in a number of different fields including Cybersecurity, Location Services and Content Delivery.
+Designing and building large software systems in a number of different fields including Cybersecurity, Location Services and Content Delivery.
 
-### Experienced in 
+### Skills 
 Scala, Java, Python, Rust, Ruby, PHP, Javascript
 
 Spark, Kafka, SOLR, Cassandra, HBase, Elastic Search, Postgres, MySQL, ML
 
 Linux, AWS, Docker, Kubernetes
 
-## Professional Experience
+## Experience
 
 `2017`
-__Director of Platform Engineering, Protectwise (acquired by Verizon)__, Denver, CO
+__Director of Platform Engineering, ProtectWise (acquired by Verizon)__, Denver, CO
 
 Leading a team of talented engineers to maintain, enhance and scale a revolutionary cloud based Network Detection and Response (NDR) cybersecurity product.  
 
@@ -36,12 +36,12 @@ Leading a team of talented engineers to maintain, enhance and scale a revolution
 * Steered major product, architectural and technical decisions.
 
 `2013`
-__Principal Engineer, Protectwise (acquired by Verizon)__, Denver, CO
+__Principal Engineer, ProtectWise (acquired by Verizon)__, Denver, CO
 
 Architected, designed and built a large scale data processing pipeline which processes and stores billions of network and security events daily.  
 
-* Leveraged Apache Spark with Kafka and S3 for high volume data processing.
-* Built a custom storage solution leveraging probabilistic data structures to increase query performance and reduce cost.
+* Leveraged Apache Spark with Kafka and S3 for high volume data processing of network packet data, telemetry and statistics.
+* Built a custom storage solution leveraging Parquet, S3 and probabilistic data structures to increase query performance and reduce cost over previous solutions.
 
 `2011`
 __Sr. Software Engineer, Photobucket__, Denver, CO
@@ -50,9 +50,6 @@ Primarily focused on scalability and performance for one of the largest photo an
 
 * Took the lead role in helping design the next generation of Photobucket’s web framework and architecture.
 * Leveraged HBase to handle the fan-out and querying of millions of user notifications that occur every day.
-
-`2010`
-__Sr. Software Engineer, Local Matters Inc__, Denver, CO
 
 `2002`
 Additional history from 2002-2010 available on request
@@ -65,12 +62,12 @@ __MS, University of Colorado at Denver__ Computer Science
 `2003`
 __BA, Calvin College__ Computer Science
 
-## Patents
+### Patents
 
 `2015`
 [US20150244678](https://patents.google.com/patent/US20150244678) Network traffic filtering and routing for threat analysis  
 
-## Tech Talks
+### Tech Talks
 
 `2018` 
 __AWS re:Invent 2018__ [Data Lake Implementation: Processing & Querying Data in Place](https://youtu.be/0fa0nt0Pe58?t=2377)
