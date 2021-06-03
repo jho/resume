@@ -13,29 +13,14 @@ Software Engineer, Big Data Wrangler, Stream Whisperer
 
 ## About
 
-Experienced and dedicated software craftsman.
-
-People leader and mentor.
-
-Always learning, honing and evolving my skills.
-
-### Experienced in
+Experienced and dedicated software craftsman, people leader, and mentor.
 
 Designing and building software in a number of different fields including Cybersecurity, Location Services and Content Delivery.
 
-### Specialized in
-
-Large scale data processing and storage pipelines with tools like Spark and Kafka.
-
-#### Languages 
-
-Scala, Java, Python, Ruby, Rust
-
-#### Tools
+### Experienced in 
+Scala, Java, Python, Rust, Ruby, PHP, Javascript
 
 Spark, Kafka, SOLR, Cassandra, HBase, Elastic Search, Postgres, MySQL, ML
-
-#### Platforms 
 
 Linux, AWS, Docker, Kubernetes
 
@@ -46,9 +31,8 @@ __Director of Platform Engineering, Protectwise (acquired by Verizon)__, Denver,
 
 Leading a team of talented engineers to maintain, enhance and scale a revolutionary cloud based Network Detection and Response (NDR) cybersecurity product.  
 
-* Responsible for hiring and onboarding process for new engineers.
-* Mentored and coached engineers career growth.
-* Assisted in budget planning and cost optimizations.
+* Responsible for hiring, onboarding, mentoring and coaching engineers.
+* Responsible for budget planning and cost optimizations.
 * Steered major product, architectural and technical decisions.
 
 `2013`
@@ -56,9 +40,8 @@ __Principal Engineer, Protectwise (acquired by Verizon)__, Denver, CO
 
 Architected, designed and built a large scale data processing pipeline which processes and stores billions of network and security events daily.  
 
-* Leveraged Kafka and Apache Spark for high volume data processing.
-* Built a customized solution leveraging probabilistic data structures to increase query performance and reduce storage cost.
-* Solved numerous scaling and architectural issues as the NDR platform matured and grew.
+* Leveraged Apache Spark with Kafka and S3 for high volume data processing.
+* Built a custom storage solution leveraging probabilistic data structures to increase query performance and reduce cost.
 
 `2011`
 __Sr. Software Engineer, Photobucket__, Denver, CO
@@ -66,24 +49,13 @@ __Sr. Software Engineer, Photobucket__, Denver, CO
 Primarily focused on scalability and performance for one of the largest photo and video sharing sites on the web.
 
 * Took the lead role in helping design the next generation of Photobucket’s web framework and architecture.
-* Engineered the site’s data layer to use batch and asynchronous Memcached and MySQL queries to reduce network traffic and keep time to first byte low.
-* Built the site’s “firehose” like product called Activity Stream. Leveraged HBase to handle the fan-out and querying of millions of user notifications that occur every day.
-
+* Leveraged HBase to handle the fan-out and querying of millions of user notifications that occur every day.
 
 `2010`
 __Sr. Software Engineer, Local Matters Inc__, Denver, CO
 
-`2008`
-__Sr. Software Engineer, Useful Networks__, Denver, CO
-
-`2005`
-__Software Engineer, LaNetro Zed__, Denver, CO
-
-`2005`
-__Systems Analyst, Steelcase__, Grand Rapids, MI
-
-`2002` 
-__Software Engineer, Pinika LLC__, Grand Rapids, MI
+`2002`
+Additional history from 2002-2010 available on request
 
 ## Education
 

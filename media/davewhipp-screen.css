@@ -137,7 +137,7 @@ h1+p {
 h2 {
 	font-size: 1.1em;
 	color: #bc412b;
-	margin-top: 1.5em;
+	margin-top: .25em;
 	position: relative;
 	top: 1.4em;
 	text-align: right;
@@ -173,7 +173,8 @@ a:hover {
 }
 
 #webaddress {
-	margin-top: .5em;
+	margin-top: .25em;
+	margin-bottom: .25em;
 	position: relative;
 	left: 30%;
 	color: #bc412b;
