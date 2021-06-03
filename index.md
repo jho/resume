@@ -44,12 +44,21 @@ Linux, AWS, Docker, Kubernetes
 `2017`
 __Director of Platform Engineering, Protectwise (acquired by Verizon)__, Denver, CO
 
-Leading a team of talented engineers to maintain, enhance and scale a revolutionary cloud based Network Detection and Response cybersecurity product.  
+Leading a team of talented engineers to maintain, enhance and scale a revolutionary cloud based Network Detection and Response (NDR) cybersecurity product.  
+
+* Responsible for hiring and onboarding process for new engineers.
+* Mentored and coached engineers career growth.
+* Assisted in budget planning and cost optimizations.
+* Steered major product, architectural and technical decisions.
 
 `2013`
 __Principal Engineer, Protectwise (acquired by Verizon)__, Denver, CO
 
-Architected, designed and built a large scale data processing pipeline for a revolutionary cloud based Network Detection and Response cybersecurity product.  The processing pipeline processes and stores billions of network and security events daily.  
+Architected, designed and built a large scale data processing pipeline which processes and stores billions of network and security events daily.  
+
+* Leveraged Kafka and Apache Spark for high volume data processing.
+* Built a customized solution leveraging probabilistic data structures to increase query performance and reduce storage cost.
+* Solved numerous scaling and architectural issues as the NDR platform matured and grew.
 
 `2011`
 __Sr. Software Engineer, Photobucket__, Denver, CO
@@ -64,17 +73,11 @@ Primarily focused on scalability and performance for one of the largest photo an
 `2010`
 __Sr. Software Engineer, Local Matters Inc__, Denver, CO
 
-Lead developer on a team which designed and built the largest real estate website in Australia, with over 1 million unique page views per day.
-
 `2008`
 __Sr. Software Engineer, Useful Networks__, Denver, CO
 
-Developed location-based applications, games and services in an Agile environment for a new cutting edge startup.  
-
 `2005`
 __Software Engineer, LaNetro Zed__, Denver, CO
-
-Technical lead of a team of developers that designed and developed industry leading mobile media software.  
 
 `2005`
 __Systems Analyst, Steelcase__, Grand Rapids, MI
