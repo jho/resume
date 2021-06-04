@@ -20,7 +20,7 @@ Designing and building large scale software systems in a number of different fie
 ### Skills 
 Scala, Java, Python, Rust, Ruby, PHP, Javascript
 
-Spark, Kafka, SOLR, Cassandra, HBase, Elastic Search, Postgres, MySQL, ML
+Spark, Kafka, SOLR, Cassandra, HBase, Elastic Search, Postgres, MySQL
 
 Linux, AWS, Docker, Kubernetes
 
