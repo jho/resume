@@ -15,7 +15,7 @@ Software Engineer, Big Data Wrangler, Stream Whisperer
 
 Experienced and dedicated software craftsman, people leader, and mentor.
 
-Designing and building large software systems in a number of different fields including Cybersecurity, Location Services and Content Delivery.
+Designing and building large scale software systems in a number of different fields including Cybersecurity, Location Services and Content Delivery.
 
 ### Skills 
 Scala, Java, Python, Rust, Ruby, PHP, Javascript
@@ -23,6 +23,8 @@ Scala, Java, Python, Rust, Ruby, PHP, Javascript
 Spark, Kafka, SOLR, Cassandra, HBase, Elastic Search, Postgres, MySQL, ML
 
 Linux, AWS, Docker, Kubernetes
+
+Microservices, Distributed Systems, ML, DevOps
 
 ## Experience
 
@@ -42,6 +44,7 @@ Architected, designed and built a large scale data processing pipeline which pro
 
 * Leveraged Apache Spark with Kafka and S3 for high volume data processing of network packet data, telemetry and statistics.
 * Built a custom storage solution leveraging Parquet, S3 and probabilistic data structures to increase query performance and reduce cost over previous solutions.
+* Designed and built microservice architecture using REST, Thrift and gRPC
 
 `2011`
 __Sr. Software Engineer, Photobucket__, Denver, CO
