@@ -1,0 +1,9 @@
+#! /bin/bash
+
+pandoc \
+	--template template.html \
+	--css ./coverletter.css \
+	-s ./coverletter.md \
+	-f markdown \
+    -t html \
+	-o ./coverletter.html

@@ -1,0 +1,43 @@
+body {
+    font-family: Helvetica;
+    padding: 0px;
+} 
+
+#header {
+    background: #444;
+    color: #fff;
+    padding: 50px;
+    text-align: right;
+}
+
+#left {
+    left: 0;
+    position: absolute;
+    //height: 100%;
+    width: 180px;
+    background-color: #aaa;
+}
+
+#contact {
+    padding-bottom: 10px;
+}
+
+#contact p {
+    line-height: 0.5em;
+}
+
+#address {
+    left: -10px;
+    padding: 5px;
+}
+
+#address p {
+    line-height: 0.5em;
+}
+
+#body {
+    padding-left: 200px;
+    position: absolute;
+    height: auto;
+    width: 100%;
+}
