@@ -10,12 +10,14 @@ sig:
     name: 'Joshua Hollander'
 ---
 
-To the editors of Science:
+To the hiring manager:
 
-We submit for your review: "The role of the microbiome in health and disease" by Geoffrey Hannigan and colleagues. We believe this work to be especially well suited for publication in Science and highly relevant to a broader scientific readership as well as the general public.
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.
 
-Our lab strives to set high standards of reproducibility and transparency, while generating and publishing high quality data. As such, all analysis work-flows, scripts, and datasets have been made publicly available for other researchers to utilize.
+Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis.
 
-The data presented in this manuscript are original and the manuscript is not under consideration elsewhere. A preprint version of this manuscript has been made available through BioRxiv.
+Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.
 
-We thank you for your consideration and look forward to your response.
+Praesent dapibus, neque id cursus faucibus, tortor neque egestas auguae, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
+
+Phasellus ultrices nulla quis nibh. Quisque a lectus. Donec consectetuer ligula vulputate sem tristique cursus. Nam nulla quam, gravida non, commodo a, sodales sit amet, nisi.
