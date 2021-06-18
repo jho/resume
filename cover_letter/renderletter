@@ -6,4 +6,4 @@ pandoc \
 	-s ./coverletter.md \
 	-f markdown \
     -t html \
-	-o ./coverletter.html
+	-o ./coverletter.pdf

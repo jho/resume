@@ -9,24 +9,28 @@
   <body>
     <div id="header">
         <div id="headtext">
-        <h2>Joshua Hollander</h2>
-        <p>Software Engineer</p>
+        <h1>$sig.name$</h1>
+        <p>$sig.title$</p>
         </div>
     </div>
     <div id="body">
         <div id="left">
-            <h3>Contact</h3>
-            <div id="contact">
-            <p>$head.email$</p>
-            <p>jho.github.io</p>
-            </div>
-            <div id="address">
-            <p>$head.address$</p>
-            <p>$head.city$, $head.state$ $head.zip$</p>
-            <p>$head.phone$</p>
-            </div>
+            <h3 class="heading">CONTACT</h3>
+            <ul id="contact">
+            <li id="email" class="contact">$head.email$</li>
+            <li id="website" class="contact">$head.website$</li>
+            <li id="address" class="contact">$head.address$
+            $head.city$, $head.state$ $head.zip$
+            <li id="phone" class="contact">$head.phone$</li>
+            </li>
+            </ul>
         </div>
+        <div id="content">
+        <p>To $to.name$:</p>
         $body$
+        <p>Sincerely,</p>
+        <p>$sig.name$</p>
+        </div>
     </div>
   </body>
 </html>

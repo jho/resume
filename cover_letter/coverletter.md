@@ -6,11 +6,13 @@ head:
     zip: 80120  
     phone: '\(303\) 601-0544'
     email: 'jholla14@gmail.com'
+    website: 'jho.github.io'
 sig:
     name: 'Joshua Hollander'
+    title: 'Software Engineer'
+to: 
+    name: 'the hiring manager'
 ---
-
-To the hiring manager:
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.
 
