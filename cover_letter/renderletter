@@ -1,9 +1,10 @@
 #! /bin/bash
 
+TGT=${1:pdf}
 pandoc \
 	--template template.html \
 	--css ./coverletter.css \
 	-s ./coverletter.md \
 	-f markdown \
     -t html \
-	-o ./coverletter.pdf
+	-o ./coverletter.$TGT
