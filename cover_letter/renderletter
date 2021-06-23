@@ -1,10 +1,13 @@
 #! /bin/bash
 
-TGT=${1:pdf}
+LETTER=${1:coverletter}
+TGT=${2:pdf}
 pandoc \
 	--template template.html \
 	--css ./coverletter.css \
-	-s ./coverletter.md \
+    -V papersize=letter \
+    -V margin-top=0 -V margin-left=0 -V margin-right=0 -V margin-bottom=0 \
+	-s ./$LETTER.md \
 	-f markdown \
     -t html \
-	-o ./coverletter.$TGT
+	-o ./$LETTER.$TGT
