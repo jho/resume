@@ -70,6 +70,10 @@ __BA, Calvin College__ Computer Science
 `2015`
 [US20150244678](https://patents.google.com/patent/US20150244678) Network traffic filtering and routing for threat analysis  
 
+`2022`
+[US20220053374A1](https://patents.google.com/patent/US20220053374A1/)
+Systems and methods for dynamic pseudo-cooperative load balancing by independent nodes based on differentiated attributes and volume
+
 ### Tech Talks
 
 `2018` 
